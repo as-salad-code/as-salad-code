@@ -28,15 +28,6 @@ Computer vision system that counts parts entering and leaving a multistage heat 
 News app with abstractive summaries, political bias detection, mood-based filtering, a cosine-similarity recommender and automated two-speaker podcasts. In evaluation, 96% of summaries were rated factually cohesive and bias detection agreed with human experts 88% of the time.
 My part: [add what you built]
 
-### [Validated File Upload (React + Flask)](https://github.com/as-salad-code/Validated-File-Upload-React-Flask)
-*React · Flask · JavaScript · Python*
-
-Full-stack upload form that validates file type and size and restricts appointment dates and times, with upload progress feedback and error messages.
-
-### [Mario Level Scene Graphics in C++](https://github.com/as-salad-code/CPP-Graphics-Mario)
-*C++ · BGI*
-
-Computer graphics project that draws a Mario level using Bresenham and DDA line algorithms, Bresenham circles and flood fill.
 
 ## Currently
 
