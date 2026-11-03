@@ -1,8 +1,7 @@
 # 💫 About Me:
 # Hi, I'm Sharvari Korde 👋
 
-Computer Engineering graduate from Pune, India, working in AI and data science. I'm applying for a master's in Artificial Intelligence / Data Science in Germany (summer semester 2027).
-
+Computer Engineering graduate from Pune, India, working in AI and data science. 
 ## About me
 
 - 🎓 B.Tech in Computer Engineering, Vishwakarma University, Pune (2022–2026), including an exchange semester at Hochschule Hof, Germany, where I studied Applied Deep Learning, Data Science and Process Mining
