@@ -1,13 +1,51 @@
-# 💫 About Me:
 # Hi, I'm Sharvari Korde 👋
 
-Computer Engineering graduate from Pune, India, working in AI and data science. 
+Computer Engineering graduate from Pune, India, focused on machine learning and data science. I'm applying for master's programmes in Artificial Intelligence and Data Science in Germany (summer semester 2027).
+
 ## About me
 
-- 🎓 B.Tech in Computer Engineering, Vishwakarma University, Pune (2022–2026), including an exchange semester at Hochschule Hof, Germany, where I studied Applied Deep Learning, Data Science and Process Mining
+- 🎓 B.Tech in Computer Engineering, Vishwakarma University, Pune (2022–2026), CGPA 8.19/10
+- 🇩🇪 Exchange semester at Hochschule Hof, Germany: Applied Deep Learning, Data Science, Process Mining
 - 💼 Data Scientist Intern at Wolters Kluwer (January–June 2026)
-- 🏆 Winner of the internal Code Games hackathon 2026 with AuditMind
-- 🇩🇪 Learning German (currently A2)
+- 🏆 Winner of the internal Code Games hackathon 2026 with AuditMind, an AI governance tool that tracks whether an AI app's decisions comply with data and AI regulations
+- 🗣️ English (IELTS 7.5), German (A2, learning)
+
+## Selected projects
+
+### [Cross-Domain Generalizability of Deep Learning Models in Predictive Business Process Monitoring](https://github.com/as-salad-code/PBPM-CrossDomain-Generalizability)
+*Python · Jupyter · BiLSTM · BiGRU · Transformer · TF-IDF · K-means*
+
+Research project on whether deep learning models trained on one business process domain still work on another. I compared BiLSTM, BiGRU and Transformer models on the BPIC 2012 (loan applications) and Helpdesk event logs, and built controlled synthetic datasets to vary vocabulary overlap and structural similarity. Key finding: transfer fails completely with no shared vocabulary, and BiGRU generalised best, keeping about 52% of its same-domain F1 score.
+
+### [Real-Time Part Counting with YOLOv8](https://github.com/as-salad-code/BearingCounter-YOLOv8)
+*Python · YOLOv8 · OpenCV* · team project
+
+Computer vision system that counts parts entering and leaving a multistage heat treatment furnace, to detect parts stuck inside. It handles small parts, dust, vibration and overlapping objects at the outlet, and reports 99.96% model accuracy on its test data.
+
+### Nexora: AI-powered personalized news app
+*Flutter · FastAPI · MongoDB · Firebase · Gemini API · Google Cloud* · team project (4 members)
+
+News app with abstractive summaries, political bias detection, mood-based filtering, a cosine-similarity recommender and automated two-speaker podcasts. In evaluation, 96% of summaries were rated factually cohesive and bias detection agreed with human experts 88% of the time.
+My part: [add what you built]
+
+### [Validated File Upload (React + Flask)](https://github.com/as-salad-code/Validated-File-Upload-React-Flask)
+*React · Flask · JavaScript · Python*
+
+Full-stack upload form that validates file type and size and restricts appointment dates and times, with upload progress feedback and error messages.
+
+### [Mario Level Scene Graphics in C++](https://github.com/as-salad-code/CPP-Graphics-Mario)
+*C++ · BGI*
+
+Computer graphics project that draws a Mario level using Bresenham and DDA line algorithms, Bresenham circles and flood fill.
+
+## Currently
+
+- Preparing master's applications in AI and Data Science
+- Interested in machine learning, computer vision and responsible AI
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/sharvari-korde-85b993268/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
@@ -16,16 +54,7 @@ Computer Engineering graduate from Pune, India, working in AI and data science.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=as-salad-code&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=as-salad-code&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=as-salad-code&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=as-salad-code&icon=7&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
