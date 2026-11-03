@@ -4,11 +4,11 @@ Computer Engineering graduate from Pune, India, focused on machine learning and 
 
 ## About me
 
-- 🎓 B.Tech in Computer Engineering, Vishwakarma University, Pune (2022–2026), CGPA 8.19/10
+- 🎓 B.Tech in Computer Engineering, Vishwakarma University, Pune (2022–2026)
 - 🇩🇪 Exchange semester at Hochschule Hof, Germany: Applied Deep Learning, Data Science, Process Mining
 - 💼 Data Scientist Intern at Wolters Kluwer (January–June 2026)
 - 🏆 Winner of the internal Code Games hackathon 2026 with AuditMind, an AI governance tool that tracks whether an AI app's decisions comply with data and AI regulations
-- 🗣️ English (IELTS 7.5), German (A2, learning)
+- 🗣️ German (A2, learning)
 
 ## Selected projects
 
