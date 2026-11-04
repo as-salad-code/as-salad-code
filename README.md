@@ -26,7 +26,7 @@ Computer vision system that counts parts entering and leaving a multistage heat 
 *Flutter · FastAPI · MongoDB · Firebase · Gemini API · Google Cloud* · team project (4 members)
 
 News app with abstractive summaries, political bias detection, mood-based filtering, a cosine-similarity recommender and automated two-speaker podcasts. In evaluation, 96% of summaries were rated factually cohesive and bias detection agreed with human experts 88% of the time.
-My part: [add what you built]
+
 
 
 ## Currently
